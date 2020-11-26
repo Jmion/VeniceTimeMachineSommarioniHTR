@@ -1,8 +1,8 @@
 Censo-stabile_Sommarioni-napoleonici_reg-1_0093_091.jpg : done
-Censo-stabile_Sommarioni-napoleonici_reg-2_0097_096.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-3_0065_063.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-4_0066_064.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0175_173.jpg
+Censo-stabile_Sommarioni-napoleonici_reg-2_0097_096.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-3_0065_063.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-4_0066_064.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0175_173.jpg : done
 Censo-stabile_Sommarioni-napoleonici_reg-06_0100_098.jpg
 Censo-stabile_Sommarioni-napoleonici_reg-6-bis_0193_191.jpg
 Censo-stabile_Sommarioni-napoleonici_reg-07_0069_065.jpg
