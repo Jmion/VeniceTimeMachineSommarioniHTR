@@ -1,3 +1,6 @@
 [submodule "PatchExtractor"]
 	path = PatchExtractor
 	url = https://github.com/Jmion/PatchExtractor.git
+[submodule "P2PaLA"]
+	path = P2PaLA
+	url = https://github.com/lquirosd/P2PaLA
