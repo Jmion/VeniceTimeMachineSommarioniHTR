@@ -1,0 +1,3 @@
+[submodule "PatchExtractor"]
+	path = PatchExtractor
+	url = https://github.com/Jmion/PatchExtractor.git
