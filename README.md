@@ -21,7 +21,7 @@ The first step of the pipeline concists in using the P2PaLA to extract the basel
 After running the P2PaLA the page layout will have been exported in a [PAGE](http://www.primaresearch.org/tools/PAGELibraries) layout description, the xsd schema of the document produced can be found [here](https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd).
 The PageExtractor submodule will allow you to extract the patches containing text from the full page scans. Please refer to the README in that submodule to understand how to use it. This is an important step since the HTR model takes as an input a single word or sentence and cannot process the entire page.
 
-### 🪄 Step 3️⃣: Patch preprocessing
+### ⚙️ Step 3️⃣: Patch preprocessing
 HTR preprocesseing
 
 ### 📄 Step 4️⃣: Hand writting recognition
