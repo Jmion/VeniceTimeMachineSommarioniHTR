@@ -24,7 +24,7 @@ Matching
 
 ## 🎉 Result Analysis
 
-## Lisence
+## License
 
 ## Contributors
 Bastien Beuchat, Jeremy Mion
