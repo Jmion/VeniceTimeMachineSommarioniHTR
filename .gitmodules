@@ -7,3 +7,6 @@
 [submodule "MatchingSommarioni"]
 	path = MatchingSommarioni
 	url = git@github.com:basbeu/MatchingSommarioni.git
+[submodule "PyLaia"]
+	path = PyLaia
+	url = git@github.com:basbeu/PyLaia.git
