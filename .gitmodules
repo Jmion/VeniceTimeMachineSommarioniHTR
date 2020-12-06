@@ -4,3 +4,6 @@
 [submodule "P2PaLA"]
 	path = P2PaLA
 	url = https://github.com/lquirosd/P2PaLA
+[submodule "MatchingSommarioni"]
+	path = MatchingSommarioni
+	url = git@github.com:basbeu/MatchingSommarioni.git
