@@ -42,24 +42,24 @@ Censo-stabile_Sommarioni-napoleonici_reg-4_0128_126.jpg
 Censo-stabile_Sommarioni-napoleonici_reg-4_0156_154.jpg
 Censo-stabile_Sommarioni-napoleonici_reg-4_0144_142.jpg
 Censo-stabile_Sommarioni-napoleonici_reg-4_0174_172.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0011_009.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0009_007.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0065_063.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0071_069.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0103_101.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0135_133.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0170_168.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0180_178.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-5_0168_166.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0006_004.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0078_076.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0002_sn.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0098_096.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0113_111.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0132_130.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0176_174.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0170_168.jpg
-Censo-stabile_Sommarioni-napoleonici_reg-06_0178_176.jpg
+Censo-stabile_Sommarioni-napoleonici_reg-5_0011_009.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0009_007.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0065_063.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0071_069.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0103_101.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0135_133.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0170_168.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0180_178.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-5_0168_166.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0006_004.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0078_076.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0050_048.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0098_096.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0113_111.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0132_130.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0176_174.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0170_168.jpg : done
+Censo-stabile_Sommarioni-napoleonici_reg-06_0178_176.jpg : done
 Censo-stabile_Sommarioni-napoleonici_reg-6-bis_0008_006.jpg : done
 Censo-stabile_Sommarioni-napoleonici_reg-6-bis_0069_067.jpg : done
 Censo-stabile_Sommarioni-napoleonici_reg-6-bis_0055_053.jpg : done
