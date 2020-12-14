@@ -8,7 +8,7 @@ To have more context and explanation about the project please refer to the proje
 Please find the details on how to run the pipeline below:
 
 ## Historical context
-The Sommarioni cadastre priginates from the efforts done by the Venice Time Machine project to archive and digitilize parts of the venetian archives.
+The Sommarioni cadaster priginates from the efforts done by the Venice Time Machine project to archive and digitalize parts of the venetian archives.
 During this process the land registries called cadastres where scanned to produce high quality images. These documents were then translated by humans
 to produce a spreadsheet containing a digital version of the cadastre. Sadly the link to the origininal page of the cadastre was lost during this process,
 this is where our project comes into play. This pipeline allows us to reestablish this lost link using high quality scans of the original documents. As an example please find bellow an image on a page from the cadastre:
