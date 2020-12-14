@@ -46,5 +46,7 @@ If a user reading the transcribed file wants to go back to the source, we think 
 
 ## License
 
+All contributions that we have done on the project have been granted a [MIT license](https://opensource.org/licenses/MIT).
+
 ## Contributors
 Bastien Beuchat, Jeremy Mion
