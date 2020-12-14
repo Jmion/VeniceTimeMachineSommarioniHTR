@@ -40,8 +40,9 @@ The code of the matching is provided in two jupyter notebooks. The main notebook
 The second notebook called Patch_statistics.ipynb is a short exploratory data analysis to show the reasons behind the design choices of the data wrangling step implemented in the main notebook.
 
 ## 🎉 Results
-
-The accuracy on the test set is 0.578. It means that what we do make sense but that it can be improved. It is not a very impressive results, but it works for almost 57% of the records. We think that the system with such an accuracy is not very usable. Nevertheless, it could be handy to find some patches/lines via the IIF links and at least the output is very interpretable. If a user reading the transcribed file wants to go back to the source, we think that it is a very fast way to use the IIIF links to see the matching. In the case of a matching success, the user will save a lot of manual searching time. In case of a failure, the user will not lose too much time as we think he will realize very quickly that the matching is not correct. 
+The accuracy on the test set is 0.578. 
+It means that the pipeline make sense but that it can be improved. The results are not very impressive because we think that the system with such an accuracy is not very usable. Nevertheless, it could be handy to find some patches/lines via the IIF links and at least the output is very interpretable. 
+If a user reading the transcribed file wants to go back to the source, we think that it is very fast via the IIIF links to see the matching. In the case of a matching success, the user will save a lot of manual searching time. In case of failure, the user will not lose too much time as we think that he will realize very quickly that the matching is not correct.
 
 ## License
 
