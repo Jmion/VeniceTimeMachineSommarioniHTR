@@ -25,16 +25,23 @@ The first step of the pipeline concists in using the P2PaLA to extract the basel
 After running the P2PaLA the page layout will have been exported in a [PAGE](http://www.primaresearch.org/tools/PAGELibraries) layout description, the xsd schema of the document produced can be found [here](https://www.primaresearch.org/schema/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd).
 The PageExtractor submodule will allow you to extract the patches containing text from the full page scans. Please refer to the README in that submodule to understand how to use it. This is an important step since the HTR model takes as an input a single word or sentence and cannot process the entire page.
 
-### ⚙️ Step 3️⃣: Patch preprocessing
-HTR preprocesseing
+### 📄 Step  3️⃣: Hand writting recognition
+This part of the pipeline is done with [PyLaia](https://github.com/basbeu/PyLaia). To setup the PyLaia framework the [IAM example](https://github.com/basbeu/PyLaia/tree/master/egs/iam-htr) provide the steps that are required.
 
-### 📄 Step 4️⃣: Hand writting recognition
-HTR with PyLaia
+Running this step on Patch extracted will require some pre-processing. The exact instructions to reproduce the run of the project is given in the [PyLaia repository](https://github.com/basbeu/PyLaia#fdh-project---decipher-venice).
+The training step is not needed as a trained model is provided in the repository.
 
-### 🔮 Step 5️⃣: Establishing the link to the original document
-Matching
+### 🔮 Step 4️⃣: Establishing the link to the original document
+The goal here is to wrap the previous step together in order to deliver the final output. The final mapping map a line in the excel file to a digitized page of Sommarioni. This step also provide IIIF link to the matching. The IIIF links are in this form : [https://images.center/iiif_sommarioni/reg1-0003/0,2578,6000,132/full/0/default.jpg](https://images.center/iiif_sommarioni/reg1-0003/0,2578,6000,132/full/0/default.jpg).
 
-## 🎉 Result Analysis
+The implementation of this step can be found in the dedicated repository [MatchingSommarioni](https://github.com/basbeu/MatchingSommarioni)
+The code of the matching is provided in two jupyter notebooks. The main notebook is Matching.ipynb. Given the input computed in step 2 and 3 of the pipeline and the main excel file, it outputs the results.csv file.
+
+The second notebook called Patch_statistics.ipynb is a short exploratory data analysis to show the reasons behind the design choices of the data wrangling step implemented in the main notebook.
+
+## 🎉 Results
+
+The accuracy on the test set is 0.578. It means that what we do make sense but that it can be improved. It is not a very impressive results, but it works for almost 57% of the records. We think that the system with such an accuracy is not very usable. Nevertheless, it could be handy to find some patches/lines via the IIF links and at least the output is very interpretable. If a user reading the transcribed file wants to go back to the source, we think that it is a very fast way to use the IIIF links to see the matching. In the case of a matching success, the user will save a lot of manual searching time. In case of a failure, the user will not lose too much time as we think he will realize very quickly that the matching is not correct. 
 
 ## License
 
