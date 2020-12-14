@@ -1,4 +1,4 @@
-# VeniceTimeMachineSommarioniHTR
+# 🕰 VeniceTimeMachineSommarioniHTR ✍🏽
 
 Please clone this repository using ```git clone --recurse-submodules``` to properly initalize all the submodules.
 
@@ -7,7 +7,7 @@ This pipeline was established during course  Foundation of Digital Humanities (D
 To have more context and explanation about the project please refer to the project [wiki page](http://fdh.epfl.ch/index.php/Deciphering_Venetian_handwriting).
 Please find the details on how to run the pipeline below:
 
-## Historical context
+## 🗿 Historical context
 The Sommarioni cadaster priginates from the efforts done by the Venice Time Machine project to archive and digitalize parts of the venetian archives.
 During this process the land registries called cadastres where scanned to produce high quality images. These documents were then translated by humans
 to produce a spreadsheet containing a digital version of the cadaster. Sadly the link to the origininal page of the cadaster was lost during this process,
@@ -44,9 +44,9 @@ The accuracy on the test set is 0.57.
 It means that the pipeline make sense but that it can be improved. The results are not very impressive because we think that the system with such an accuracy is not very usable. Nevertheless, it could be handy to find some patches/lines via the IIF links and at least the output is very interpretable. 
 If a user reading the transcribed file wants to go back to the source, we think that it is very fast via the IIIF links to see the matching. In the case of a matching success, the user will save a lot of manual searching time. In case of failure, the user will not lose too much time as we think that he will realize very quickly that the matching is not correct.
 
-## License
+## 🧑🏽‍⚖️ License
 
 All contributions that we have done on the project have been granted a [MIT license](https://opensource.org/licenses/MIT).
 
-## Contributors
+## 🦸🏽‍♂️ Contributors
 Bastien Beuchat, Jeremy Mion
