@@ -3,6 +3,7 @@
 Please clone this repository using ```git clone --recurse-submodules``` to properly initalize all the submodules.
 
 This repository is a pipeline to process the Sommarioni Venetian cadastre and to reestablish the mapping lost during the document translation.
+This pipeline was establish during course  Foundation of Digital Humanities (DH-405) given in fall 2020 at EPFL.
 To have more context and explanation about the project please refer to the project [wiki page](http://fdh.epfl.ch/index.php/Deciphering_Venetian_handwriting).
 Please find the details on how to run the pipeline below:
 
